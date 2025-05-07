@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+radiator_heat.png
+/.idea
+*.png
+/.vscode
+main.exp
+main.obj
+main.lib
+test1d2.ipynb
+test1d.ipynb
+test2d.ipynb
+triton-3.0.0-cp312-cp312-win_amd64.whl
+sample.py

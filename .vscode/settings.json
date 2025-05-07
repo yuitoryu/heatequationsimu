@@ -1,2 +1,11 @@
 {
+    "background.fullscreen" :{
+        // 本地图片可以拖到浏览器中，快速从地址栏得到file协议的地址
+        "images": ["file:///C:/Users/seer2/Pictures/65171364_p0.jpg"],
+        "opacity": 0.9,
+        "size": "cover",
+        "position": "center",
+        "interval": 0,
+        "random": false
+  }
 }
